@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Business"
+						}
+					}
+				]
+			},
+			"price_ccopy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Laborum ut fugiat pariatur cupidatat labore anim non sunt anim nisi ipsum amet incididunt. Ex consectetur dolore laboris fugiat proident ipsum pariatur officia laborum veniam amet occaecat ut cillum. Exercitation voluptate commodo culpa nulla mollit sit aliqua eu et ut elit fugiat qui."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
